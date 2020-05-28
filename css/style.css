@@ -7,11 +7,11 @@
 
   h1 {
     color: #66BFBF;
-    /* text-align: center; */
+  
     font-family: 'Sacramento', cursive;
     font-size: 5.3rem;
     /* 100% is equivalent to 16px*/
-    /* line-height: 2; */
+  
     margin-top: 56px;
   }
 
@@ -34,14 +34,12 @@
 
   body {
     margin: 0;
-    /* margin-bottom: 0; */
+ 
     font-family: 'Merriweather', serif;
-    /* font-family: 'Montserrat', sans-serif; */
+
 
     text-align: center;
-    /* background-color: #f1f3f4; */
     color: #40514E;
-    /* font-size: 2em; */
 
   }
 
@@ -94,10 +92,22 @@
     /* padding-bottom: 50px; */
   }
 
+  .footer-link:hover {
+    color: #EAF6F6;
+  }
 
 
   .contact-me{
     margin-bottom: 100px;
+  }
+
+  a{
+    text-decoration: none;
+  }
+
+  a:hover{
+
+    color : #ff9d76;
   }
 
   .skill-row {
@@ -126,6 +136,7 @@
   .cp{
 
     color: #EAF6F6;
+    font-size: 0.75rem;
 
   }
 
@@ -169,10 +180,3 @@
 	position:relative;
 	top:1px;
 }
-/*  .df{
-    clear: left;
-  }
-
-  .vf{
-    clear: right;
-  }*/
