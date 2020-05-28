@@ -36,8 +36,6 @@
     margin: 0;
  
     font-family: 'Merriweather', serif;
-
-
     text-align: center;
     color: #40514E;
 
@@ -56,13 +54,12 @@
   }
 
   .middle-container{
-
+	  
     margin-top: 100px;
   }
 
   .coder {
     width: 35%;
-    /* height: 200px; */
     float: right;
     margin-left: 50px;
     text-align: center;
@@ -82,14 +79,10 @@
 
   .footer-link {
     margin-left: 20px;
-    /* margin-top: 100px;
-    padding-top : 100px; */
     color: #11999E;
     font-family: 'Montserrat', sans-serif;
     text-decoration: none;
     font-size: 1.2rem;
-    /* margin-bottom: 50px; */
-    /* padding-bottom: 50px; */
   }
 
   .footer-link:hover {
@@ -137,6 +130,7 @@
 
     color: #EAF6F6;
     font-size: 0.75rem;
+    padding: 20px 0; 
 
   }
 
@@ -147,7 +141,6 @@
   width: 5%;
   border-width: 8px;
   border-color: #c7f0db;
-
   margin-bottom: 50px;
   margin-top: 50px;
 
