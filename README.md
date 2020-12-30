@@ -1,3 +1,3 @@
 # My-personal-Website
 
-This is a website which I learned to develop in my webd course. It is built using CSS and HTML.
+A website developed using HTML5 and CSS3.
